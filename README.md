@@ -40,7 +40,8 @@ spec:
 	  sh "docker --version"
 	}
   }
-}```
+}
+```
 
 ## Docker hub repository
 https://hub.docker.com/r/byndyusoft/build-essentials
