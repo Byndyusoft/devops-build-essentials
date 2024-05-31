@@ -18,7 +18,7 @@ kind: Pod
 spec:
   containers:
   - name: docker
-    image: byndyusoft/build-essentials:0.0.1
+    image: byndyusoft/build-essentials:0.0.3
     securityContext:
       privileged: true
     env:
