@@ -6,9 +6,10 @@ Installed components:
   * make
   * git
   * curl
-  * docker-compose
   * openssl
   * bash
+  * twine
+  * nuget
 
 Jenkins pod template example:
 ```groovy
